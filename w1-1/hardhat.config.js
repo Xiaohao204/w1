@@ -23,7 +23,7 @@ module.exports = {
     okextest: {
       url: `https://exchaintestrpc.okex.org`,
       chainId: 65,
-      accounts: [`0x9921a224ea6be02091f063249a6b33fb0935eccf4a028fdbdf39d97da825ccd9`],
+      accounts: [`0x`],
     }
   },
 
